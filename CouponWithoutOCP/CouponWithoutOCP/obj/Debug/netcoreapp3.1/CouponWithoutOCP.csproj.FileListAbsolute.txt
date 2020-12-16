@@ -1,0 +1,13 @@
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csprojAssemblyReference.cache
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfoInputs.cache
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.AssemblyInfo.cs
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.csproj.CoreCompileInputs.cache
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.exe
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.deps.json
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.json
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.runtimeconfig.dev.json
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\bin\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.dll
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.pdb
+D:\Aldi Prabowo\Kuliah\Semester 3\ST122 - Pemrograman Lanjut\Pertemuan 5\CouponWithoutOCP\CouponWithoutOCP\obj\Debug\netcoreapp3.1\CouponWithoutOCP.genruntimeconfig.cache
